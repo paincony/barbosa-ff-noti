@@ -1,0 +1,9 @@
+{
+  "name": "barbosa-ff-noti",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "ws3-fca": "latest",
+    "axios": "latest"
+  }
+}
